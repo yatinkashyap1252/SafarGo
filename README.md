@@ -1,5 +1,7 @@
 # Safargo - React Native App
 
+want help in integrating stripe payment ("I'm facing the problem in that")
+
 Welcome to **Safargo** — a feature-rich ride-booking app built with **React Native**. Safargo provides a seamless and intuitive experience for users to book rides, make payments, and manage accounts. With clean UI components and a scalable architecture, Safargo is designed to enhance your ride-booking experience.
 
 ## 🚀 Features
